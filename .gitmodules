@@ -1,0 +1,6 @@
+[submodule "Space-Journey-Front"]
+	path = Space-Journey-Front
+	url = https://github.com/kawthar-shameseldeen/Space-Journey-Front.git
+[submodule "Space-Journey-Back"]
+	path = Space-Journey-Back
+	url = https://github.com/kawthar-shameseldeen/Space-Journey-Back.git
