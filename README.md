@@ -40,6 +40,14 @@ Features:
 -A 3D space tour with realistic models of planets and stars, allowing users to interact with the environment.
 IoT integration to control lights and other components based on user actions in the 3D space.
 Real-time communication between the ESP8266 and the backend to update the IoT devices based on events in the 3D tour.
-Font: The project uses "Inter" as the main font for the UI design.
+
+- The app uses the font: The project uses "Inter" as the main font for the UI design.
 
 <br><br>
+
+<!-- UI UX -->
+<img src="./readme/title4.svg"/>
+
+> We designed the 3D Space Tour with IoT integration using wireframes and mockups, iterating on the design to ensure an immersive and user-friendly experience for exploring the space environment.
+
+- Project Figma design [figma](https://www.figma.com/design/x3ik1gHkx6FZ9RbfEOqSrH/Space-Journey?node-id=0-1&t=3nPedjzeBdMIpC4X-1)
