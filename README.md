@@ -23,23 +23,13 @@
 
 
 3D Space Tour with IoT Integration is built using the following technologies:
--React: The frontend is built with React, a JavaScript library for building user interfaces, making it efficient to create dynamic and interactive web applications.
+- React & Three.js: The frontend is built with React and Three.js to create an interactive and dynamic 3D space tour, allowing users to explore the environment.
 
--Three.js: The 3D space tour is implemented using Three.js, a powerful JavaScript library that simplifies the creation of 3D graphics in the browser.
+- Node.js, Express & MongoDB: The backend uses Node.js and Express.js for server-side logic, with MongoDB as the database to manage data and support real-time operations.
 
--Node.js & Express: The backend is powered by Node.js and Express.js, providing a robust server environment to manage API routes and serve data to the frontend.
+- ESP8266 & IoT: IoT integration is powered by the ESP8266, enabling the app to control physical devices (like lights) based on user interactions with the 3D tour.
 
--ESP8266: IoT integration is achieved using ESP8266, which communicates with the backend to control various IoT devices (like lights and other components) based on interactions with the 3D space tour.
-
--MongoDB: The app uses MongoDB as the NoSQL database to manage and store data efficiently, supporting real-time data processing.
-
--Socket.io: Real-time communication between the 3D space tour and the IoT devices is handled via Socket.io, ensuring smooth interaction and synchronization.
-
-Features:
-
--A 3D space tour with realistic models of planets and stars, allowing users to interact with the environment.
-IoT integration to control lights and other components based on user actions in the 3D space.
-Real-time communication between the ESP8266 and the backend to update the IoT devices based on events in the 3D tour.
+- Socket.io: Ensures real-time communication between the frontend and IoT devices, allowing seamless updates and synchronization.
 
 - The app uses the font: The project uses "Inter" as the main font for the UI design.
 
