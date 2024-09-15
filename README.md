@@ -31,7 +31,7 @@
 
 - Socket.io: Ensures real-time communication between the frontend and IoT devices, allowing seamless updates and synchronization.
 
-- The app uses the font: The project uses "Inter" as the main font for the UI design.
+- The app uses the font:  "Inter" as the main font for the UI design.
 
 <br><br>
 
