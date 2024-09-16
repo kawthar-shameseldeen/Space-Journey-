@@ -47,7 +47,7 @@
 ### Mockups
 | Home screen  | MilkyWay Screen | BlackHole Screen |
 | ---| ---| ---|
-| ![Landing](./readme/demo/1440x1024.png) | ![fsdaf](./readme/demo/1440x1024.png) | ![fsdaf](./readme/demo/1440x1024.png) |
+| ![Landing](./readme/demo/Home.png) | ![fsdaf](./readme/demo/1440x1024.png) | ![fsdaf](./readme/demo/1440x1024.png) |
 
 <br><br>
 
@@ -106,3 +106,17 @@
 
 <br><br>
 
+
+
+<!-- How to run -->
+<img src="./readme/title10.svg"/>
+
+> To set up Space-Journey locally, follow these steps:
+
+### Prerequisites
+
+This is an example of how to list things you need to use the software and how to install them.
+* npm
+  ```sh
+  npm install npm@latest -g
+  ```
