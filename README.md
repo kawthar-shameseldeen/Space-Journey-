@@ -22,7 +22,7 @@
 <img src="./readme/title3.svg"/>
 
 
-3D Space Tour with IoT Integration is built using the following technologies:
+>3D Space Tour with IoT Integration is built using the following technologies:
 - React & Three.js: The frontend is built with React and Three.js to create an interactive and dynamic 3D space tour, allowing users to explore the environment.
 
 - Node.js, Express & MongoDB: The backend uses Node.js and Express.js for server-side logic, with MongoDB as the database to manage data and support real-time operations.
@@ -31,7 +31,7 @@
 
 - Socket.io: Ensures real-time communication between the frontend and IoT devices, allowing seamless updates and synchronization.
 
-- The app uses the font:  "Inter" as the main font for the UI design.
+- The app uses the font:  "Popins" as the main font for the UI design.
 
 <br><br>
 
@@ -45,9 +45,9 @@
 
 
 ### Mockups
-| Home screen  | MilkyWay Screen | BlackHole Screen |
-| ---| ---| ---|
-| ![Landing](./readme/demo/Home.png) | ![fsdaf](./readme/demo/1440x1024.png) | ![fsdaf](./readme/demo/1440x1024.png) |
+| Home screen  | BlackHole Screen | 
+| ---| ---| 
+| ![Landing](./readme/demo/HeroSection.png) | ![fsdaf](./readme/demo/BlackHoleScreen.png) | 
 
 <br><br>
 
@@ -69,11 +69,9 @@
 
 
 ### Admin Screens (Web)
-| Login screen  | Register screen |  Landing screen |
+| Landing Screen  | SolarSystem Screen  |  BlackHole Scene  |
 | ---| ---| ---|
-| ![Landing](./readme/demo/1440x1024.png) | ![fsdaf](./readme/demo/1440x1024.png) | ![fsdaf](./readme/demo/1440x1024.png) |
-| Home screen  | Menu Screen | Order Screen |
-| ![Landing](./readme/demo/1440x1024.png) | ![fsdaf](./readme/demo/1440x1024.png) | ![fsdaf](./readme/demo/1440x1024.png) |
+| ![Landing](./readme/demo/Landing.gif) | ![fsdaf](./readme/demo/SolarSystem.gif) | ![fsdaf](./readme/demo/BlackHole.gif) |
 
 <br><br>
 
@@ -112,11 +110,14 @@
 <img src="./readme/title10.svg"/>
 
 > To set up Space-Journey locally, follow these steps:
+1. Clone the repository:
+https://github.com/kawthar-shameseldeen/Space-Journey-Front.git
 
-### Prerequisites
+2. Navigate to the project directory and install NPM packages:
+cd space-journey
+npm install npm@latest -g
 
-This is an example of how to list things you need to use the software and how to install them.
-* npm
-  ```sh
-  npm install npm@latest -g
-  ```
+3. Run the website:
+npm run start
+
+Now, you should be able to run Space Journey  locally and explore its features.
