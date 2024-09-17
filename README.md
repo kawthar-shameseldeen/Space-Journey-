@@ -69,7 +69,7 @@
 
 
 ### User Screens (Web)
-| Landing Screen  | SolarSystem Screen  |  BlackHole Scene  |
+| Landing Screen  | SolarSystem Screen  |  BlackHole Sreen  |
 | ---| ---| ---|
 | ![Landing](./readme/demo/Landing.gif) | ![fsdaf](./readme/demo/SolarSys.gif) | ![fsdaf](./readme/demo/BlackHole.gif) |
 
