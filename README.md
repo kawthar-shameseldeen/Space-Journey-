@@ -68,10 +68,10 @@
 <img src="./readme/title6.svg"/>
 
 
-### Admin Screens (Web)
+### User Screens (Web)
 | Landing Screen  | SolarSystem Screen  |  BlackHole Scene  |
 | ---| ---| ---|
-| ![Landing](./readme/demo/Landing.gif) | ![fsdaf](./readme/demo/SolarSystem.gif) | ![fsdaf](./readme/demo/BlackHole.gif) |
+| ![Landing](./readme/demo/Landing.gif) | ![fsdaf](./readme/demo/SolarSys.gif) | ![fsdaf](./readme/demo/BlackHole.gif) |
 
 <br><br>
 
