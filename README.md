@@ -115,9 +115,11 @@ https://github.com/kawthar-shameseldeen/Space-Journey-Front.git
 
 2. Navigate to the project directory and install NPM packages:
 cd space-journey
+ ```sh
 npm install npm@latest -g
-
+```
 3. Run the website:
+ ```sh
 npm run start
-
+```
 Now, you should be able to run Space Journey  locally and explore its features.
