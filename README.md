@@ -14,7 +14,7 @@
 - As a user, I want to explore the 3D space tour, so I can learn about the universe in an interactive and immersive way.
 - As a user, I want to experience dynamic lighting effects during the tour, so I can have a realistic and captivating journey through space.
 
-- As an admin, I want to view a list of all registered users, so I can monitor and manage user accounts.
+- As an admin, I want to view a list of all registered users and deivces on desktop app, so I can monitor and manage user accounts.
 
 <br><br>
 
@@ -24,6 +24,8 @@
 
 >3D Space Tour with IoT Integration is built using the following technologies:
 - React & Three.js: The frontend is built with React and Three.js to create an interactive and dynamic 3D space tour, allowing users to explore the environment.
+
+- ElectronJS : The admin panel is built with ElectronJS and React to create desktop app 
 
 - Node.js, Express & MongoDB: The backend uses Node.js and Express.js for server-side logic, with MongoDB as the database to manage data and support real-time operations.
 
@@ -114,12 +116,31 @@
 https://github.com/kawthar-shameseldeen/Space-Journey-Front.git
 
 2. Navigate to the project directory and install NPM packages:
-cd space-journey
+
  ```sh
+ #Install for website
+cd space-journey
+npm install npm@latest -g
+# Install for desktop
+cd admin
+npm install npm@latest -g
+cd desktop
 npm install npm@latest -g
 ```
 3. Run the website:
+# Build for Webiste 
  ```sh
 npm run start
 ```
-Now, you should be able to run Space Journey  locally and explore its features.
+4. Run the desktop:
+# Build for Desktop
+ ```sh
+cd admin
+
+npm  start
+# Open new terminal
+cd admin
+cd desktop
+npm start
+```
+Now, you should be able to run Space Journey locally and explore its features.
