@@ -113,8 +113,9 @@
 
 > To set up Space-Journey locally, follow these steps:
 1. Clone the repository:
+```sh
 https://github.com/kawthar-shameseldeen/Space-Journey-Front.git
-
+```
 2. Navigate to the project directory and install NPM packages:
 
  ```sh
@@ -130,17 +131,18 @@ npm install npm@latest -g
 3. Run the website:
 # Build for Webiste 
  ```sh
+cd space-journey
 npm run start
 ```
 4. Run the desktop:
 # Build for Desktop
  ```sh
 cd admin
-
-npm  start
-# Open new terminal
-cd admin
 cd desktop
 npm start
+# Open new terminal
+cd admin
+npm  start
+
 ```
 Now, you should be able to run Space Journey locally and explore its features.
