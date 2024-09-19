@@ -143,6 +143,9 @@ npm start
 # Open new terminal
 cd admin
 npm  start
+#Login as admin 
+#email : desktop@email.com
+#password: desktop@desktop
 
 ```
 Now, you should be able to run Space Journey locally and explore its features.
