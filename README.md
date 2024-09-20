@@ -23,15 +23,15 @@
 
 
 >3D Space Tour with IoT Integration is built using the following technologies:
-- React & Three.js: The frontend is built with React and Three.js to create an interactive and dynamic 3D space tour, allowing users to explore the environment.
+- [React] & [Three.js]: The frontend is built with React and Three.js to create an interactive and dynamic 3D space tour, allowing users to explore the environment.
 
-- ElectronJS : The admin panel is built with ElectronJS and React to create desktop app 
+- [ElectronJS] : The admin panel is built with ElectronJS and React to create desktop app 
 
-- Node.js, Express & MongoDB: The backend uses Node.js and Express.js for server-side logic, with MongoDB as the database to manage data and support real-time operations.
+- [Node.js], [Express] & [MongoDB]: The backend uses Node.js and Express.js for server-side logic, with MongoDB as the database to manage data and support real-time operations.
 
-- ESP8266 & IoT: IoT integration is powered by the ESP8266, enabling the app to control physical devices (like lights) based on user interactions with the 3D tour.
+- [ESP8266] & IoT: IoT integration is powered by the ESP8266, enabling the app to control physical devices (like lights) based on user interactions with the 3D tour.
 
-- Socket.io: Ensures real-time communication between the frontend and IoT devices, allowing seamless updates and synchronization.
+- [Socket.io]: Ensures real-time communication between the frontend and IoT devices, allowing seamless updates and synchronization.
 
 - The app uses the font:  "Popins" as the main font for the UI design.
 
@@ -114,15 +114,18 @@
 > To set up Space-Journey locally, follow these steps:
 1. Clone the repository:
 ```sh
-https://github.com/kawthar-shameseldeen/Space-Journey-Front.git
+https://github.com/kawthar-shameseldeen/Space-Journey-.git
 ```
 2. Navigate to the project directory and install NPM packages:
 
  ```sh
  #Install for website
+cd Space-Journey-Front
 cd space-journey
 npm install npm@latest -g
+#open new terminal
 # Install for desktop
+cd Space-Journey-Front
 cd admin
 npm install npm@latest -g
 cd desktop
@@ -131,21 +134,18 @@ npm install npm@latest -g
 3. Run the website:
 # Build for Webiste 
  ```sh
+cd Space-Journey-Front
 cd space-journey
 npm run start
 ```
 4. Run the desktop:
 # Build for Desktop
  ```sh
-cd admin
-cd desktop
-npm start
-# Open new terminal
+cd Space-Journey-Front
 cd admin
 npm  start
 #Login as admin 
 #email : desktop@email.com
 #password: desktop@desktop
-
 ```
 Now, you should be able to run Space Journey locally and explore its features.
