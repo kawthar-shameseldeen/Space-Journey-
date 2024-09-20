@@ -23,15 +23,15 @@
 
 
 >3D Space Tour with IoT Integration is built using the following technologies:
-- [React] & [Three.js]: The frontend is built with React and Three.js to create an interactive and dynamic 3D space tour, allowing users to explore the environment.
+- [React](https://react.dev/) & [Three.js](https://threejs.org/): The frontend is built with React and Three.js to create an interactive and dynamic 3D space tour, allowing users to explore the environment.
 
-- [ElectronJS] : The admin panel is built with ElectronJS and React to create desktop app 
+- [ElectronJS](https://www.electronjs.org/) : The admin panel is built with ElectronJS and React to create desktop app 
 
-- [Node.js], [Express] & [MongoDB]: The backend uses Node.js and Express.js for server-side logic, with MongoDB as the database to manage data and support real-time operations.
+- [Node.js](https://nodejs.org/en), [Express](https://expressjs.com/) & [MongoDB](https://www.mongodb.com/docs/): The backend uses Node.js and Express.js for server-side logic, with MongoDB as the database to manage data and support real-time operations.
 
-- [ESP8266] & IoT: IoT integration is powered by the ESP8266, enabling the app to control physical devices (like lights) based on user interactions with the 3D tour.
+- [ESP8266](https://arduino-esp8266.readthedocs.io/en/latest/) & IoT: IoT integration is powered by the ESP8266, enabling the app to control physical devices (like lights) based on user interactions with the 3D tour.
 
-- [Socket.io]: Ensures real-time communication between the frontend and IoT devices, allowing seamless updates and synchronization.
+- [Socket.io](https://socket.io/): Ensures real-time communication between the frontend and IoT devices, allowing seamless updates and synchronization.
 
 - The app uses the font:  "Popins" as the main font for the UI design.
 
