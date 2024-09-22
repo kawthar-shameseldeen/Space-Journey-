@@ -101,7 +101,7 @@
 ### Efficient Backend Deployment: Unleashing the Power of AWS Integration:
 
 - This project uses AWS to deploy the backend Node.js server, ensuring scalability, reliability, and performance. The backend is hosted on an AWS EC2 instance, providing a stable environment to handle API requests, manage real-time communication with IoT devices, and serve data to the 3D space tour. With AWS services like S3 for storage and CloudWatch for monitoring, we ensure that the backend performs optimally under various workloads.
-
+<img src="./readme//demo/aws.png">
 <br><br>
 
 <!-- Unit Testing -->
