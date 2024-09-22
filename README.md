@@ -52,7 +52,7 @@
 
 ### Mockups
 
-| Home screen                               | BlackHole Screen                            |
+| Home Screen                               | BlackHole Screen                            |
 | ----------------------------------------- | ------------------------------------------- |
 | ![Landing](./readme/demo/HeroSection.png) | ![fsdaf](./readme/demo/BlackHoleScreen.png) |
 
@@ -79,7 +79,7 @@
 
 ### Admin Screens (Desktop)
 
-| Users screen  | Devices screen |
+| Users Screen  | Devices Screen |
 | ---| ---| 
 | ![fsdaf](./readme/demo/AllUsersDesktop.png) | ![fsdaf](./readme/demo/DevicesDesktop.png) | 
 
