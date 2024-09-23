@@ -110,7 +110,7 @@
 ### Precision in Development: Harnessing the Power of Unit Testing:
 
 - This project implements thorough unit testing to ensure the reliability and functionality of both the backend Node.js server and the IoT interactions. By testing individual components such as API routes, real-time communication through Socket.io, and IoT device control, we can catch and resolve potential issues early. This guarantees that each part of the system works as expected, providing a strong and stable foundation for the 3D space tour and IoT integration.
-<img src="./readme/demo/Login.png">
+<img src="./readme/demo/unitTesting.png">
 
 <br><br>
 
