@@ -14,7 +14,7 @@
 ### User:
 
 - As a user, I want to explore the 3D space tour, so I can learn about the universe in an interactive and immersive way.
-- As a user , I want to view many 3D scenes , Mikyway , Solar System , Black Hole , Nebula
+- As a user , I want to view many 3D scenes , Milkyway , Solar System , Black Hole , Nebula
 - As a user, I want to experience dynamic lighting effects during the tour, so I can have a realistic and captivating journey through space.
 
 ### Admin:
