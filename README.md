@@ -72,9 +72,14 @@
 
 ### User Screens (Web)
 
-| Landing Screen                        | SolarSystem Screen                   | BlackHole Screen                       | Nebula Screen                          |
-| ------------------------------------- | ------------------------------------ | ------------------------------------- | ------------------------------------- |
-| ![Landing](./readme/demo/Landing.gif) | ![fsdaf](./readme/demo/SolarSys.gif) | ![fsdaf](./readme/demo/BlackHole.gif) | ![fsdaf](./readme/demo/Nebula.gif) |
+| Landing Screen   | SolarSystem Screen |
+| ---| ---| 
+|  ![Landing](./readme/demo/Landing.gif) | ![fsdaf](./readme/demo/SolarSys.gif) | 
+
+| BlackHole Screen  | Nebula Screen |
+| ---| ---| 
+|  ![fsdaf](./readme/demo/BlackHole.gif) | ![fsdaf](./readme/demo/Nebula.gif) | 
+
 
 
 ### Admin Screens (Desktop)
